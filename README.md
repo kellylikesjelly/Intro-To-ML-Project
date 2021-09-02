@@ -1,2 +1,3 @@
 # Intro-To-ML-Project
 Project materials for Introduction to Machine Learning module (Jan-Apr 2021)
+We built a machine learning model to identify the illness a patient is suffering from through their text review. We did text data preprocessing, exploratory data analysis and sentiment analysis, and fit Naive Bayes, Support Vector Machine, Logistic Regression, Random Forest, XGBoost classifiers to the data to see which produced the best results. We also used imblearn Pipeline to correct for extremely skewed class distribution. XGBoost and Random Forest classifiers were identified to be the best performing models.
