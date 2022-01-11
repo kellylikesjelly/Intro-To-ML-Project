@@ -1,4 +1,8 @@
 # Intro-To-ML-Project
+
+UPDATE:
+I added on a BERT model with ~89% accuracy, which can be viewed separately here: https://www.kaggle.com/tantingxuankelly/medicine-review-bert. It can also be viewed in the notebook BERT_review.ipynb in this repo.
+
 Project materials for Introduction to Machine Learning module (Jan-Apr 2021) <br>
 We built a machine learning model to identify the illness a patient is suffering from through their text review. We did text data preprocessing, exploratory data analysis and sentiment analysis, and fit Naive Bayes, Support Vector Machine, Logistic Regression, Random Forest, XGBoost classifiers to the data to see which produced the best results. We also used imblearn Pipeline to correct for extremely skewed class distribution. XGBoost and Random Forest classifiers were identified to be the best performing models.
 
